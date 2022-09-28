@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1664373008714,
+  "timestamp": 1664374340813,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -67,7 +67,7 @@
         "/9958.7c092b5f5de18076.js",
         "/common.d78fb851c5c3bb9a.js",
         "/index.html",
-        "/main.d0f598562dcab2ba.js",
+        "/main.dc77c2f9378b6242.js",
         "/manifest.webmanifest",
         "/polyfills-core-js.bf716d989d5f340a.js",
         "/polyfills-dom.a8a9d9734c33b7ab.js",
@@ -172,8 +172,8 @@
     "/assets/poshel-otsyuda-von-bandit.mp3": "5bf72dfb16554183abbba5e640d4804db5b5a336",
     "/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "/common.d78fb851c5c3bb9a.js": "3849ed19ef96d8bb472e79c30fc68d038b2226aa",
-    "/index.html": "62a8429a978520eacdbd797a5c30d02c8120cf74",
-    "/main.d0f598562dcab2ba.js": "5a5566e409076fd939f454b3f1f4ebb3751bb384",
+    "/index.html": "baa8b17a6ea3d3aaa0f5b1028ac14bb318452ace",
+    "/main.dc77c2f9378b6242.js": "b7d08d61a229c7748e6593db8a63b15a4e993726",
     "/manifest.webmanifest": "d63fb0c0d2dd3af750b7b24c7b7679e8b68e5dda",
     "/polyfills-core-js.bf716d989d5f340a.js": "0ac78bf7d04bc12b6c75ec73f0c129089e7de353",
     "/polyfills-dom.a8a9d9734c33b7ab.js": "752b347c75eff98d322e25fd7b6787a4a7740baa",
