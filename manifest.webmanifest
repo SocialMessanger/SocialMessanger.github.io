@@ -1,0 +1,18 @@
+{ 
+  "short_name": "Lovers",
+  "name": "Social Messenger for lovers",
+  "description": "Lovers Dating Service",
+ 
+  "theme_color": "#1976d2",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "./",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}
