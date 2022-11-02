@@ -1,7 +1,8 @@
 {
     "profile": {
         "title": "Profile",
-        "name": "{{name}}",
+        "name": "Name",
+        "lastName": "Last name",
         "personalInfo": "Personal info",
         "gender": "Gender",
         "man": "Man",
@@ -103,7 +104,16 @@
         "meInterests": "My interests...",
         "radius": "Search radius",
         "advance": "Advanced search",
-        "searchBtn": "Search"
+        "searchBtn": "Search",
+        "privacy": "Privacy",
+        "terms": "Terms",
+        "exitFrom": "Exit from system",
+        "firstPage": "Find your soul mate",
+        "register": "Registration",
+        "enterIn": "Enter",
+        "pass": "Password",
+        "2pass": "Confirm password"
+        
     },
     "theme": {
         "title": "Theme"
