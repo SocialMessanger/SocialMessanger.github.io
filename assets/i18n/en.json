@@ -96,8 +96,13 @@
         "spanish": "Spanish",
         "russian": "Russian",
         "notDetected": "Not filled",
+        "balance": "Your current balance",
+        "choose": "Choose:",
         "from": "from",
+        "coin": "credit's",
         "to": "to",
+        "know": "Do you want to know who visited you?",
+        "payFirst":"Pay 10 credits and write first",
         "men": "Men",
         "women": "Women",
         "don'tCarry": "Doesn't matter",
@@ -106,13 +111,16 @@
         "advance": "Advanced search",
         "searchBtn": "Search",
         "privacy": "Privacy",
+        "privacyUrl": "/page-privacy-en",
         "terms": "Terms",
+        "termsUrl": "/page-terms-en",
         "exitFrom": "Exit from system",
         "firstPage": "Find your soul mate",
         "register": "Registration",
         "enterIn": "Enter",
         "pass": "Password",
-        "2pass": "Confirm password"
+        "2pass": "Confirm password",
+        "documents": "document's"
         
     },
     "theme": {
@@ -150,5 +158,12 @@
         "password": "Change password",
         "account": "Delete account",
         "save": "Save"
+    },
+    "credits":{
+        "title": "Credit's",
+        "pay": "Payment",
+        "agree": "I agree with",
+        "and": "and",
+        "next": "Continue"
     }
 }
