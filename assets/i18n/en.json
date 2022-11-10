@@ -164,6 +164,12 @@
         "pay": "Payment",
         "agree": "I agree with",
         "and": "and",
-        "next": "Continue"
+        "next": "Continue",
+        "send": "Send",
+        "have": "You have:",
+        "howMuch": "How much send?",
+        "sendMoney":"Send credit's",
+        "block": "Block user",
+        "more": "More..."
     }
 }
