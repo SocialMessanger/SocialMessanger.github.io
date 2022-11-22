@@ -171,5 +171,10 @@
         "sendMoney":"Send credit's",
         "block": "Block user",
         "more": "More..."
+    },
+    "history":{
+        "title": "History",
+        "spend": "You spend:"
     }
+    
 }
